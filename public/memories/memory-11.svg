@@ -1,0 +1,12 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1200' height='900' viewBox='0 0 1200 900' role='img' aria-label='Memory 11 placeholder'>
+  <defs>
+    <linearGradient id='g11' x1='0' y1='0' x2='1' y2='1'>
+      <stop offset='0%' stop-color='#fff2d4' />
+      <stop offset='100%' stop-color='#d7efff' />
+    </linearGradient>
+  </defs>
+  <rect width='1200' height='900' fill='url(#g11)' />
+  <rect x='70' y='70' width='1060' height='760' rx='34' fill='white' fill-opacity='0.55' stroke='white' stroke-opacity='0.85' />
+  <text x='600' y='420' text-anchor='middle' font-family='Verdana, sans-serif' font-size='90' font-weight='700' fill='#1f2937'>Memory 11</text>
+  <text x='600' y='500' text-anchor='middle' font-family='Verdana, sans-serif' font-size='34' fill='#334155'>Replace this with your real photo</text>
+</svg>
